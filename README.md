@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayowa
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning ReactJs, NextJs and ThreeJs
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me mayowa.u.sunusi@gmail.com
 
