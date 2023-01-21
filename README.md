@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Zibarr**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
