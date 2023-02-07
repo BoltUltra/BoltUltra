@@ -25,8 +25,8 @@
 
 - ⚡ Fun fact **I think dinosaurs are real**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/boltultra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="boltultra" height="30" width="40" /></a>
 <a href="https://twitter.com/dami0la" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dami0la" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayowa-sunusi-04689b15b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayowa-sunusi-04689b15b" height="30" width="40" /></a>
