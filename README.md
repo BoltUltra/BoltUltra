@@ -40,7 +40,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boltultra&show_icons=true&locale=en" alt="boltultra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boltultra&" alt="boltultra" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boltultra&" alt="boltultra" /></p> -->
 
 <!---
 BoltUltra/BoltUltra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
