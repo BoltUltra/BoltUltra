@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dami0la" target="blank"><img src="https://img.shields.io/twitter/follow/dami0la?logo=twitter&style=for-the-badge" alt="dami0la" /></a> </p>
 
-- 🔭 I’m currently working on **Zibarr**
+<!-- - 🔭 I’m currently working on **Zibarr** -->
 
 - 🌱 I’m currently learning **Angular**
 
@@ -27,10 +27,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/boltultra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="boltultra" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/boltultra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="boltultra" height="30" width="40" /></a> -->
 <a href="https://twitter.com/dami0la" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dami0la" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayowa-sunusi-04689b15b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayowa-sunusi-04689b15b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18068949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18068949" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/18068949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18068949" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
